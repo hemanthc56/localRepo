@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+#div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+#btn{
+    padding: 4px;
+}
